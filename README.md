@@ -11,6 +11,6 @@ Besides SQL , i have included excel project which shows bikes sales with pivot t
 This project analyzes air bnb prices  based on different factors such as zip code, bedroom size, and mostly used airbnb by bedroom size. 
 I have used the dataset from kaggle for the year of 2016. and visualized the dashboard on Tableau. attached are the dataset and tableau dashboard links. 
 
-#LINKS
-https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
-https://public.tableau.com/app/profile/orkhan.garajayev/vizzes
+# LINKS
+#(https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
+#(https://public.tableau.com/app/profile/orkhan.garajayev/vizzes)
