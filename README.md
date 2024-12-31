@@ -1,11 +1,11 @@
 # Portfolio.Project
  This project explores global COVID-19 vaccination data using SQL. The goal is to analyze vaccination trends, identify insights about vaccine usage, and provide actionable summaries using advanced SQL techniques. The dataset includes information on vaccination totals, vaccine types, and country-level statistics.
 
-Key Skills Demonstrated
-Data Manipulation: Joins, Temporary Tables, Common Table Expressions (CTEs), and Views.
-Data Analysis: Aggregate functions, Window functions, and Filtering techniques.
-Data Cleaning: Handling missing values and ensuring data quality.
-Visualization Preparation: Creating queries for trends, summaries, and comparisons. 
+# Key Skills Demonstrated
+1) Data Manipulation: Joins, Temporary Tables, Common Table Expressions (CTEs), and Views.
+2) Data Analysis: Aggregate functions, Window functions, and Filtering techniques.
+3) Data Cleaning: Handling missing values and ensuring data quality.
+4) Visualization Preparation: Creating queries for trends, summaries, and comparisons.
 
 
 
