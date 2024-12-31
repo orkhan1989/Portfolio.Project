@@ -1,8 +1,11 @@
 # Portfolio.Project
- This repository will include Postgresql queries for COVID Vaccine . tables used were country_vaccinations and country_vac_manuf.
- The two tables were downloaded from Kaggle as CSV file. I have included different queries for comparison from two tables.
-The purpose was to show vaccination used by countries and vaccination manufactured by countries . also cleaned data to remove null values 
-Besides SQL , i have included excel project which shows bikes sales with pivot tables and dashboards. please feel free to navigate thru excel file . 
+ This project explores global COVID-19 vaccination data using SQL. The goal is to analyze vaccination trends, identify insights about vaccine usage, and provide actionable summaries using advanced SQL techniques. The dataset includes information on vaccination totals, vaccine types, and country-level statistics.
+
+Key Skills Demonstrated
+Data Manipulation: Joins, Temporary Tables, Common Table Expressions (CTEs), and Views.
+Data Analysis: Aggregate functions, Window functions, and Filtering techniques.
+Data Cleaning: Handling missing values and ensuring data quality.
+Visualization Preparation: Creating queries for trends, summaries, and comparisons. 
 
 
 
